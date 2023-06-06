@@ -1,3 +1,4 @@
+![A clip of a music-related app and website I'm pretty proud of :)](https://i.imgur.com/vhOEa3Y.gif)
 ### Hi there 👋
 
 <!--
