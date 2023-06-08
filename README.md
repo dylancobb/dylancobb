@@ -1,13 +1,14 @@
 # Hi there, I'm Dylan 👋
 
 ## Contents 📖
-1. [Languages and Tools](#languages-and-tools-%EF%B8%8F)
-2. [Stats](#stats-)
-3. [A project I'm proud of](#heres-something-im-a-bit-proud-of-)
+1. [About Me](#about-me-)
+2. [Languages and Tools](#languages-and-tools-%EF%B8%8F)
+3. [Stats](#stats-)
+4. [A project I'm proud of](#heres-something-im-a-bit-proud-of-)
+
+## About Me 👨‍💻
 
 ## Languages and Tools 🛠️
-
-
 
 <table>
   <tr>
@@ -95,7 +96,7 @@ This JavaScript application generates musical objects called **canonic sequences
 
 Canonic sequences are Escher-like with their tiling self-similarity and potentially infinite repeatability; they are versatile and interesting musical resources, and the techniques to write them are a specialised area of study.
 
-My app algorithmically generates every possible canonic sequence of a specific type (two-voice, note-against-note patterns with a two-note melodic model—hence "2x2 canonic sequences"), and organises them in various ways for exploration. These patterns are an original discovery, and the topic of a book I am currently writing. I have also developed algorithms to generate other note-against-note canonic sequences of arbitrary dimensions, although the general MxN algorithm has a runtime complexity of $\Theta(x^{m+n-1})$ and doesn't scale terribly well for arbitrarily large values of M or N.
+My app algorithmically generates every possible canonic sequence of a specific type (two-voice, note-against-note patterns with a two-note melodic model—hence "2x2 canonic sequences"), and organises them in various ways for exploration. These patterns are an original discovery, and the topic of a book I am currently writing. I have also developed algorithms to generate other note-against-note canonic sequences of arbitrary dimensions; the general MxN algorithm has a runtime complexity of $\Theta(x^{m+n-1})$, meaning it doesn't scale terribly well for large values of M or N, but smaller pattern sizes are also fortuitously the most musically useful.
 
 <!--
 **dylancobb/dylancobb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
