@@ -1,9 +1,9 @@
 # Hi there, I'm Dylan 👋
 
 ## Contents 📖
-[Languages and Tools](#languages-and-tools-%EF%B8%8F)
-[Stats](#stats-)
-[A project I'm proud of](#heres-something-im-a-bit-proud-of-)
+1. [Languages and Tools](#languages-and-tools-%EF%B8%8F)
+2. [Stats](#stats-)
+3. [A project I'm proud of](#heres-something-im-a-bit-proud-of-)
 
 ## Languages and Tools 🛠️
 
