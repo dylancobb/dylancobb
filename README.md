@@ -1,9 +1,11 @@
 # Hi there, I'm Dylan 👋
 
-## Here's something I'm a bit proud of... 😤
-![A clip of a music-related app and website I designed and built](https://i.imgur.com/J9Lb87K.gif)
+## Contents 📖
+[Languages and Tools](#languages-and-tools-%EF%B8%8F)
 
 ## Languages and Tools 🛠️
+
+
 
 <table>
   <tr>
@@ -22,9 +24,9 @@
     <td>
       <a href="https://www.vim.org/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vim/vim-original.svg" height="40" width="40" /></a>
-      <a href="https://git-scm.com/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" height="40" width="40" /></a>
       <a href="https://code.visualstudio.com/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" height="40" width="40" /></a>
+      <a href="https://git-scm.com/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" height="40" width="40" /></a>
     </td>
   </tr>
@@ -71,6 +73,27 @@
 
 ## Stats 🔥
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylancobb&layout=compact&theme=dracula)](https://github.com/dylancobb/github-readme-stats)
+
+## Here's something I'm a bit proud of... 😤
+
+This was the project that made me fall in love with algorithms, web design and coding in general, so it's close to my heart :heart:
+
+![A clip of a music-related app and website I designed and built](https://i.imgur.com/J9Lb87K.gif)
+
+[Click here to try it out!](https://dylancobb.github.io/Hex-Music-Theory-Site/2x2.html) | [Click here to see the full website (WIP)](https://dylancobb.github.io/Hex-Music-Theory-Site/) 🎹
+
+[Website repository](https://github.com/dylancobb/Hex-Music-Theory-Site) | [Original canonic explorer repository codebase](https://github.com/dylancobb/2x2-Canonic-Sequence-Explorer) 🗄️
+
+This JavaScript application generates musical objects called **canonic sequences**. I'll try to explain concisely what a canonic sequence even *is* first of all:
+- If a melodic idea is repeated at a different pitch, this is a **melodic sequence**
+- If a melodic idea in one voice is immediately repeated in another voice, **imitation** is said to occur.
+- If imitation is strictly maintained so that the following voice(s) exactly copy the contour of the leading voice, the imitation is said to be **canonic**.
+- If a melodic sequence is also imitated canonically, a **canonic sequence** is formed.
+- Canons are written with a technique called **counterpoint**
+
+Canonic sequences are Escher-like with their tiling self-similarity and potentially infinite repeatability; they are versatile and interesting musical resources, and the techniques to write them are a specialised area of study.
+
+My app algorithmically generates every possible canonic sequence of a specific type (two-voice, note-against-note patterns with a two-note melodic model—hence "2x2 canonic sequences"), and organises them in various ways for exploration. These patterns are an original discovery, and the topic of a book I am currently writing. I have also developed algorithms to generate other note-against-note canonic sequences of arbitrary dimensions, although the general MxN algorithm has a runtime complexity of $\Theta(x^{m+n-1})$ and doesn't scale terribly well for arbitrarily large values of M or N.
 
 <!--
 **dylancobb/dylancobb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
