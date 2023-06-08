@@ -1,4 +1,4 @@
-# Hi there, I'm Dylan 👋
+<h1 align="center">Hi there, I'm Dylan 👋</h1>
 
 ## Contents 📖
 1. [About Me](#about-me-)
