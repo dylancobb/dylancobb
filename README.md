@@ -2,6 +2,8 @@
 
 ## Contents 📖
 [Languages and Tools](#languages-and-tools-%EF%B8%8F)
+[Stats](#stats-)
+[A project I'm proud of](#heres-something-im-a-bit-proud-of-)
 
 ## Languages and Tools 🛠️
 
