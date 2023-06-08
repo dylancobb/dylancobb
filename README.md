@@ -2,9 +2,11 @@
 
 ## Contents 📖
 1. [About Me](#about-me-)
-2. [Languages and Tools](#languages-and-tools-%EF%B8%8F)
-3. [Stats](#stats-)
-4. [A project I'm proud of](#heres-something-im-a-bit-proud-of-)
+3. [Languages and Tools](#languages-and-tools-%EF%B8%8F)
+4. [Stuff I'm learning](#im-currently-learning-)
+5. [Stats](#stats-)
+6. [A project I'm proud of](#heres-something-im-a-bit-proud-of-)
+7. [Contact me](#how-to-reach-me-)
 
 ## About Me 👨‍💻
 
@@ -74,6 +76,10 @@
   </tr>
 </table>
 
+## I’m currently learning 🌱
+
+
+
 ## Stats 🔥
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylancobb&layout=compact&theme=dracula)](https://github.com/dylancobb/github-readme-stats)
 
@@ -96,16 +102,9 @@ This JavaScript application generates musical objects called **canonic sequences
 
 Canonic sequences are Escher-like with their tiling self-similarity and potentially infinite repeatability; they are versatile and interesting musical resources, and the techniques to write them are a specialised area of study.
 
-My app algorithmically generates every possible canonic sequence of a specific type (two-voice, note-against-note patterns with a two-note melodic model—hence "2x2 canonic sequences"), and organises them in various ways for exploration. These patterns are an original discovery, and the topic of a book I am currently writing. I have also developed algorithms to generate other note-against-note canonic sequences of arbitrary dimensions; the general MxN algorithm has a runtime complexity of $\Theta(x^{m+n-1})$, meaning it doesn't scale terribly well for large values of M or N, but smaller pattern sizes are also fortuitously the most musically useful.
+My app algorithmically generates every possible valid two-voice, note-against-note canonic sequence with a two-note melodic model (hence "2x2 canonic sequences"), and organises them in various ways for exploration. These patterns are an original discovery, and the topic of a book I am currently writing. I have also developed algorithms to generate other note-against-note canonic sequences of arbitrary dimensions; the general MxN algorithm has a runtime complexity of $\Theta(x^{m+n-1})$, meaning it doesn't scale terribly well for large values of M or N, but smaller pattern sizes are also fortuitously the most musically useful.
 
-<!--
-**dylancobb/dylancobb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+No external libraries were used in this project: the notation is rendered using a very simple canvas-based renderer I built, and sound is generated via the Web Audio API.
 
-Here are some ideas to get you started:
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+## How to reach me 📫
+
