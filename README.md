@@ -95,16 +95,9 @@ This was the project that made me fall in love with algorithms, web design and c
 
 [Website repository](https://github.com/dylancobb/Hex-Music-Theory-Site) | [Original canonic explorer repository codebase](https://github.com/dylancobb/2x2-Canonic-Sequence-Explorer) 🗄️
 
-This JavaScript application generates musical objects called **canonic sequences**. I'll try to explain concisely what a canonic sequence even *is* first of all:
-- If a melodic idea is repeated at a different pitch, this is a **melodic sequence**
-- If a melodic idea in one voice is immediately repeated in another voice, **imitation** is said to occur.
-- If imitation is strictly maintained so that the following voice(s) exactly copy the contour of the leading voice, the imitation is said to be **canonic**.
-- If a melodic sequence is also imitated canonically, a **canonic sequence** is formed.
-- Canons are written with a technique called **counterpoint**
+This JavaScript application generates musical objects called **canonic sequences**, Escher-like patterns formed by voices imitating one another. They are versatile and interesting musical resources, and the techniques to write them are a specialised area of study.
 
-Canonic sequences are Escher-like with their tiling self-similarity and potentially infinite repeatability; they are versatile and interesting musical resources, and the techniques to write them are a specialised area of study.
-
-My app algorithmically generates every possible valid two-voice, note-against-note canonic sequence with a two-note melodic model (hence "2x2 canonic sequences"), and organises them in various ways for exploration. These patterns are an original discovery, and the topic of a book I am currently writing. I have also developed algorithms to generate other note-against-note canonic sequences of arbitrary dimensions; the general MxN algorithm has a runtime complexity of $\Theta(x^{m+n-1})$, meaning it doesn't scale terribly well for large values of M or N, but smaller pattern sizes are also fortuitously the most musically useful.
+My app algorithmically generates every possible valid two-voice, note-against-note canonic sequence with a two-note melodic model (hence "2x2 canonic sequences"), and organises them in various ways for exploration. These patterns are an original discovery, and the topic of a book I am currently writing. I have also developed algorithms to generate other note-against-note canonic sequences of arbitrary dimensions; the general $m \times n$ algorithm has a runtime complexity of $\Theta(x^{m+n-1})$, meaning it doesn't scale terribly well for large values of $m$ or $n$, but smaller pattern sizes are also fortuitously the most musically useful.
 
 No external libraries were used in this project: the notation is rendered using a very simple canvas-based renderer I built, and sound is generated via the Web Audio API.
 
