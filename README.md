@@ -108,9 +108,11 @@ This JavaScript application generates musical objects called **canonic sequences
 
 My app algorithmically generates every possible valid two-voice, note-against-note canonic sequence of length two (hence "2x2 canonic sequences"), and organises them in various ways for exploration. These patterns are an original discovery, and the topic of a book I am currently writing. This project enabled me to study the patterns, and I learned a lot of programming fundamentals along the way!
 
-I have also written algorithms to generate other note-against-note canonic sequences of arbitrary dimensions; the general $m \times n$ algorithm has a runtime complexity of $\Theta(x^{m+n-1})$ though, meaning it doesn't scale terribly well for large values of $m$ or $n$, but smaller pattern sizes are also fortuitously the most musically useful.
+I have also written algorithms to generate other note-against-note canonic sequences of arbitrary dimensions, but smaller pattern sizes have proven the most musically useful and versatile so far.
 
 No external libraries were used in this project: the notation is rendered using a very simple canvas-based renderer I built, and sound is generated via the Web Audio API.
 
 ## How to reach me 📫
 
+Email: dylancobb92@gmail.com
+LinkedIn:
