@@ -10,6 +10,8 @@
 
 ## About Me 👨‍💻
 
+- I'm currently training with [Founders and Coders](https://www.foundersandcoders.com/learn/) Software Foundation course with the FAC28 cohort.
+
 ## Languages and Tools 🛠️
 
 <table>
