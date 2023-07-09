@@ -115,4 +115,5 @@ No external libraries were used in this project: the notation is rendered using 
 ## How to reach me 📫
 
 Email: dylancobb92@gmail.com
+
 LinkedIn:
