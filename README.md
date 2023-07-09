@@ -11,7 +11,9 @@
 ## About Me 👨‍💻
 
 🔭 I'm currently training with [Founders and Coders](https://www.foundersandcoders.com/learn/) Software Foundation course with the FAC28 cohort.
-😤 Test-Driven and Agile software development enthusiast
+
+😤 Test-Driven and Agile software development enthusiast.
+
 🤩 Fascinated by cloud computing, SaaS and machine learning.
 
 ## Languages and Tools 🛠️
