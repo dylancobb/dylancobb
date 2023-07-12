@@ -116,4 +116,4 @@ No external libraries were used in this project: the notation is rendered using 
 
 Email: dylancobb92@gmail.com
 
-LinkedIn:
+LinkedIn: www.linkedin.com/in/dylan-cobb-411439277
