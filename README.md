@@ -31,6 +31,8 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" height="40" width="40" /></a>
       <a href="https://www.typescriptlang.org/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" height="40" width="40" /></a>
+      <a href="https://www.python.org/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" height="40" width="40" /></a>
     </td>
     <td>
       <a href="https://www.vim.org/">
@@ -86,10 +88,11 @@
 
 ## I’m currently learning 🌱
 
-- Agile software development practices
-- Javascript, Typescript, SQL and C
-- Algorithm design, data structures and other computer science fundamentals
-- AWS, Terraform, Infrastructure as Code
+- Test-Driven Development.
+- Agile software development practices.
+- Javascript/Typescript, SQL, C and Python. I'd like to add Haskell to the rotation soon, partly because it looks like a very different way of thinking about code, but mostly to finally understand all the memes about monads floating around the internet.
+- Algorithm design, data structures and other computer science fundamentals.
+- AWS, Terraform, Infrastructure as Code.
 
 ## Stats 🔥
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylancobb&layout=compact&theme=dracula)](https://github.com/dylancobb/github-readme-stats)
