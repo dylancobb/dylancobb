@@ -16,6 +16,8 @@
 
 🤩 Fascinated by cloud computing, SaaS and machine learning.
 
+🗃️ [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) method and [bullet journalling](https://bulletjournal.com/) fan. Love [Obsidian](https://obsidian.md/).
+
 ## Languages and Tools 🛠️
 
 <table>
@@ -88,10 +90,11 @@
 
 ## I’m currently learning 🌱
 
-- Test-Driven Development.
+- Test-Driven Development. 🟥 🟩 🟦 I've gone from hating it to looking forward to passing those tests, to looking forward to the tests failing. I'm not sure if this is Stockholme syndrome or the start of something beautiful—time will tell.
 - Agile software development practices.
-- Javascript/Typescript, SQL, C and Python. I'd like to add Haskell to the rotation soon, partly because it looks like a very different way of thinking about code, but mostly to finally understand all the memes about monads floating around the internet.
-- Algorithm design, data structures and other computer science fundamentals.
+- Trying to learn a bit more about Vim, UNIX/the CLI, VSCode etc. every day, as right now it feels like up-front investment in learning about the environment and how to work efficiently will pay dividends in the long run.
+- Javascript/Typescript, SQL, C and Python. I'd like to add Haskell to the rotation soon, partly because it looks like a very different way of thinking about code—but mostly to finally understand all the [memes](https://miro.medium.com/v2/resize:fit:353/0*YRmMSbyesVMmcvWk.jpg) about monads floating around the internet.
+- Algorithm design, data structures and other computer science fundamentals. I've also been brushing up on maths (calculus, linear algebra, discrete maths etc.) to help with the more formal/rigorous side of some of these comp-sci topics, which has been surprisingly rewarding.
 - AWS, Terraform, Infrastructure as Code.
 
 ## Stats 🔥
