@@ -12,7 +12,7 @@
 
 🔭 I'm currently training with [Founders and Coders](https://www.foundersandcoders.com/learn/) Software Foundation course with the FAC28 cohort.
 
-😤 Test-Driven and Agile software development enthusiast.
+😤 TDD and Agile software development enthusiast.
 
 🤩 Fascinated by cloud computing, SaaS and machine learning.
 
@@ -90,11 +90,10 @@
 
 ## I’m currently learning 🌱
 
-- Test-Driven Development. 🟥 🟩 🟦 I've gone from hating it to looking forward to passing those tests, to looking forward to the tests failing. I'm not sure if this is Stockholme syndrome or the start of something beautiful—time will tell.
-- Agile software development practices.
+- Test-Driven Development. 🟥 🟩 🟦
 - Trying to learn a bit more about Vim, UNIX/the CLI, VSCode etc. every day, as right now it feels like up-front investment in learning about the environment and how to work efficiently will pay dividends in the long run.
 - Javascript/Typescript, SQL, C and Python.
-  - I'd like to add Haskell to the rotation soon, partly because it looks like a very different way of thinking about code—but mostly to finally understand all the [memes](https://miro.medium.com/v2/resize:fit:353/0*YRmMSbyesVMmcvWk.jpg) about monads floating around the internet.
+  - I'd like to add Haskell to the rotation soon, partly because it looks like a very different way of thinking about code—but mostly to finally understand all the [memes about monads.](https://miro.medium.com/v2/resize:fit:353/0*YRmMSbyesVMmcvWk.jpg)
 - Algorithm design, data structures and other computer science fundamentals.
   - I've also been brushing up on maths (calculus, linear algebra, discrete maths etc.) to help with the more formal/rigorous side of some of these comp-sci topics, which has been surprisingly rewarding.
 - AWS, Terraform, Infrastructure as Code.
