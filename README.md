@@ -29,12 +29,12 @@
     <td>
       <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" height="40" width="40" /></a>
+      <a href="https://www.python.org/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" height="40" width="40" /></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" height="40" width="40" /></a>
       <a href="https://www.typescriptlang.org/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" height="40" width="40" /></a>
-      <a href="https://www.python.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" height="40" width="40" /></a>
     </td>
     <td>
       <a href="https://www.vim.org/">
@@ -93,8 +93,10 @@
 - Test-Driven Development. 🟥 🟩 🟦 I've gone from hating it to looking forward to passing those tests, to looking forward to the tests failing. I'm not sure if this is Stockholme syndrome or the start of something beautiful—time will tell.
 - Agile software development practices.
 - Trying to learn a bit more about Vim, UNIX/the CLI, VSCode etc. every day, as right now it feels like up-front investment in learning about the environment and how to work efficiently will pay dividends in the long run.
-- Javascript/Typescript, SQL, C and Python. I'd like to add Haskell to the rotation soon, partly because it looks like a very different way of thinking about code—but mostly to finally understand all the [memes](https://miro.medium.com/v2/resize:fit:353/0*YRmMSbyesVMmcvWk.jpg) about monads floating around the internet.
-- Algorithm design, data structures and other computer science fundamentals. I've also been brushing up on maths (calculus, linear algebra, discrete maths etc.) to help with the more formal/rigorous side of some of these comp-sci topics, which has been surprisingly rewarding.
+- Javascript/Typescript, SQL, C and Python.
+  - I'd like to add Haskell to the rotation soon, partly because it looks like a very different way of thinking about code—but mostly to finally understand all the [memes](https://miro.medium.com/v2/resize:fit:353/0*YRmMSbyesVMmcvWk.jpg) about monads floating around the internet.
+- Algorithm design, data structures and other computer science fundamentals.
+  - I've also been brushing up on maths (calculus, linear algebra, discrete maths etc.) to help with the more formal/rigorous side of some of these comp-sci topics, which has been surprisingly rewarding.
 - AWS, Terraform, Infrastructure as Code.
 
 ## Stats 🔥
