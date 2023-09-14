@@ -10,7 +10,7 @@
 
 ## About Me 👨‍💻
 
-🔭 I'm currently training with [Founders and Coders](https://www.foundersandcoders.com/learn/) Software Foundation course with the FAC28 cohort.
+🔭 I'm currently in full-time training with the [Founders and Coders](https://www.foundersandcoders.com/learn/) Software Developer course (FAC28 cohort) as an apprentice full-stack engineer.
 
 😤 TDD and Agile software development enthusiast.
 
