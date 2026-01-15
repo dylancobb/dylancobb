@@ -14,4 +14,4 @@ My most recent side projects have been:
 ## Contact
 
 - [Email](mailto:dylancobb92@gmail.com)
-- [LinkedIn](www.linkedin.com/in/dylan-cobb-411439277)
+- [LinkedIn](https://www.linkedin.com/in/dylan-cobb-411439277)
